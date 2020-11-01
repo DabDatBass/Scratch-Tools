@@ -1,5 +1,7 @@
 # Scratch Tools
 
+This is the forked version of Scratch-Tools for testing.
+
 You can visit the Scratch Tools website **[here](https://scratchtools.edu.eu.org/)**.
 
-This is the GitHub page for the Scratch User Management Project collaboration. Please find all the details [here](https://scratch.mit.edu/discuss/topic/449445/)!
+The original can be found **[here](https://github.com/Looky1173/Scratch-Tools)**.
